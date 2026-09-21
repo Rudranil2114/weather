@@ -32,10 +32,7 @@ A highly visual, dynamic weather application built with React. This project demo
 
 Follow these steps to run the project on your local machine:
 
-1. **Clone the repository:**
-   \\\ash
-   git clone https://github.com/nilimeshbasu/weather-dashboard.git
-   \\\
+
 
 2. **Navigate into the project folder:**
    \\\ash
@@ -58,5 +55,4 @@ Follow these steps to run the project on your local machine:
 
 ---
 
-## 👨‍💻 Author
-* **Nilimesh Basu**
+
